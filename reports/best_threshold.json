@@ -1,0 +1,11 @@
+{
+  "assumptions": {
+    "offer_cost": 40.0,
+    "customer_value": 500.0,
+    "offer_success_rate": 0.3
+  },
+  "best_threshold": 0.55,
+  "net_value_on_test_set": 21820.0,
+  "customers_contacted": 542,
+  "churners_missed": 84
+}

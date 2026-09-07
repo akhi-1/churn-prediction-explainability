@@ -1,0 +1,162 @@
+[
+  {
+    "rank": 1,
+    "churn_probability": 0.9589704275131226,
+    "flagged": true,
+    "actually_churned": true,
+    "top_reasons": [
+      {
+        "feature": "months as a customer",
+        "value": 1.0,
+        "shap": 0.6533158421516418,
+        "direction": "increases risk"
+      },
+      {
+        "feature": "month-to-month contract",
+        "value": 1.0,
+        "shap": 0.5011385083198547,
+        "direction": "increases risk"
+      },
+      {
+        "feature": "lifetime spend",
+        "value": 95.1,
+        "shap": 0.2907766103744507,
+        "direction": "increases risk"
+      },
+      {
+        "feature": "InternetService Fiber optic",
+        "value": 1.0,
+        "shap": 0.23494848608970642,
+        "direction": "increases risk"
+      }
+    ]
+  },
+  {
+    "rank": 2,
+    "churn_probability": 0.9555569291114807,
+    "flagged": true,
+    "actually_churned": true,
+    "top_reasons": [
+      {
+        "feature": "months as a customer",
+        "value": 1.0,
+        "shap": 0.6569177508354187,
+        "direction": "increases risk"
+      },
+      {
+        "feature": "month-to-month contract",
+        "value": 1.0,
+        "shap": 0.4975822865962982,
+        "direction": "increases risk"
+      },
+      {
+        "feature": "lifetime spend",
+        "value": 95.45,
+        "shap": 0.28670260310173035,
+        "direction": "increases risk"
+      },
+      {
+        "feature": "InternetService Fiber optic",
+        "value": 1.0,
+        "shap": 0.2539868950843811,
+        "direction": "increases risk"
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "churn_probability": 0.9496891498565674,
+    "flagged": true,
+    "actually_churned": true,
+    "top_reasons": [
+      {
+        "feature": "months as a customer",
+        "value": 1.0,
+        "shap": 0.6977697610855103,
+        "direction": "increases risk"
+      },
+      {
+        "feature": "month-to-month contract",
+        "value": 1.0,
+        "shap": 0.5422086119651794,
+        "direction": "increases risk"
+      },
+      {
+        "feature": "lifetime spend",
+        "value": 85.05,
+        "shap": 0.2785065472126007,
+        "direction": "increases risk"
+      },
+      {
+        "feature": "InternetService Fiber optic",
+        "value": 1.0,
+        "shap": 0.2303563803434372,
+        "direction": "increases risk"
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "churn_probability": 0.9405826330184937,
+    "flagged": true,
+    "actually_churned": true,
+    "top_reasons": [
+      {
+        "feature": "months as a customer",
+        "value": 1.0,
+        "shap": 0.6941129565238953,
+        "direction": "increases risk"
+      },
+      {
+        "feature": "month-to-month contract",
+        "value": 1.0,
+        "shap": 0.5422086119651794,
+        "direction": "increases risk"
+      },
+      {
+        "feature": "lifetime spend",
+        "value": 85.0,
+        "shap": 0.27869904041290283,
+        "direction": "increases risk"
+      },
+      {
+        "feature": "InternetService Fiber optic",
+        "value": 1.0,
+        "shap": 0.2284316122531891,
+        "direction": "increases risk"
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "churn_probability": 0.9404882788658142,
+    "flagged": true,
+    "actually_churned": true,
+    "top_reasons": [
+      {
+        "feature": "months as a customer",
+        "value": 1.0,
+        "shap": 0.660342276096344,
+        "direction": "increases risk"
+      },
+      {
+        "feature": "month-to-month contract",
+        "value": 1.0,
+        "shap": 0.5329452157020569,
+        "direction": "increases risk"
+      },
+      {
+        "feature": "lifetime spend",
+        "value": 89.55,
+        "shap": 0.27463576197624207,
+        "direction": "increases risk"
+      },
+      {
+        "feature": "InternetService Fiber optic",
+        "value": 1.0,
+        "shap": 0.2520621120929718,
+        "direction": "increases risk"
+      }
+    ]
+  }
+]
