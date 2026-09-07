@@ -18,7 +18,6 @@ ROOT = Path(__file__).resolve().parents[1]
 REPORTS = ROOT / "reports"
 RANDOM_STATE = 42
 
-# Human-readable labels for the engineered columns.
 PRETTY = {
     "tenure": "months as a customer",
     "MonthlyCharges": "current monthly charge",
